@@ -1,4 +1,4 @@
-package com.ai1tutorial.spring.boot.app;
+package com.ai1tutorial.spring.boot;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
